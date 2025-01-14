@@ -6,6 +6,9 @@
 
 ## Week 1
 - [Candies](/week1/candies.py)
+- [Inversion](/week1/inversions.py)
+- [Convert to same bits](/week1/samebits.py)
+- [Repeating Pattern](/week1/repeat.py)
 - [Test cases](/week1/tests.py)
 
 
